@@ -130,6 +130,5 @@
         </a>
     </p>
 
-    <!-- Contact Section -->
 <h2>Contact</h2>
     <p>- 📫 Email: <a href="mailto:yadasai007@gmail.com">yadasai007@gmail.com</a></p>
