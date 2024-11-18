@@ -1,21 +1,15 @@
-<!-- Main Header -->
-    <h1 align="center">Hi 👋, I'm Sai Kumar Yada</h1>
-    <h3 align="center">A passionate frontend developer and data analyst</h3>
+<h1 align="center">Hi 👋, I'm Sai Kumar Yada</h1>
+<h3 align="center">A passionate frontend developer and data analyst</h3>
 
-    <!-- About Me Section -->
-    <h2>About Me</h2>
+<h2>About Me</h2>
     <p>- 🔭 I’m currently working on <a href="https://github.com/yadasai007/search.git" target="_blank">search engine using Flask</a></p>
     <p>- 💬 Ask me about <strong>Python and Java</strong></p>
     <p>- 📫 How to reach me: <a href="mailto:yadasai007@gmail.com">yadasai007@gmail.com</a></p>
-
-    <!-- Projects Section -->
-    <h2>Projects</h2>
+<h2>Projects</h2>
     <p>- <a href="https://github.com/yadasai007/search.git" target="_blank">Search Engine using Flask</a></p>
 
-    <!-- Skills Section -->
-    <h2>Skills</h2>
-
-    <h3>Programming Languages</h3>
+<h2>Skills</h2>
+<h3>Programming Languages</h3>
     <p>
         <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
@@ -34,7 +28,7 @@
         </a>
     </p>
 
-    <h3>Frontend Development</h3>
+<h3>Frontend Development</h3>
     <p>
         <a href="https://angular.io" target="_blank" rel="noreferrer">
             <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
@@ -53,7 +47,7 @@
         </a>
     </p>
 
-    <h3>Backend Development</h3>
+<h3>Backend Development</h3>
     <p>
         <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
             <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
@@ -69,7 +63,7 @@
         </a>
     </p>
 
-    <h3>Database Tools</h3>
+<h3>Database Tools</h3>
     <p>
         <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
             <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" width="40" height="40"/>
@@ -88,7 +82,7 @@
         </a>
     </p>
 
-    <h3>DevOps Tools</h3>
+<h3>DevOps Tools</h3>
     <p>
         <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
@@ -107,7 +101,7 @@
         </a>
     </p>
 
-    <h3>Machine Learning/AI Tools</h3>
+<h3>Machine Learning/AI Tools</h3>
     <p>
         <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
@@ -123,7 +117,7 @@
         </a>
     </p>
 
-    <h3>Others</h3>
+<h3>Others</h3>
     <p>
         <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
@@ -137,5 +131,5 @@
     </p>
 
     <!-- Contact Section -->
-    <h2>Contact</h2>
+<h2>Contact</h2>
     <p>- 📫 Email: <a href="mailto:yadasai007@gmail.com">yadasai007@gmail.com</a></p>
