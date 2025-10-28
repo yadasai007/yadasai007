@@ -6,7 +6,7 @@
 <p> 💼 **Software Developer** with 3+ years of experience in full-stack web and mobile development</p>
 <p> 🌱 Continuously learning **Cloud Technologies, Machine Learning, and System Design**</p>
 <p> 💬 Ask me about **Java, Python, Spring Boot, Angular, React, Flutter, and Cloud Technologies**</p>
-<p>- 📫 How to reach me: <a href="mailto:saikumaryada2022@gmail.com">saikumaryada2022@gmail.com</a></p>
+<p> 📫 How to reach me: <a href="mailto:saikumaryada2022@gmail.com">saikumaryada2022@gmail.com</a></p>
 
 
 ## 🛠️ Technical Skills
