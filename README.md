@@ -3,10 +3,10 @@
 
 <h2>About Me</h2>
 
-    <p> 💼 **Software Developer** with 3+ years of experience in full-stack web and mobile development</p>
-    <p> 🌱 Continuously learning **Cloud Technologies, Machine Learning, and System Design**</p>
-    <p> 💬 Ask me about **Java, Python, Spring Boot, Angular, React, Flutter, and Cloud Technologies**</p>
-    <p>- 📫 How to reach me: <a href="mailto:saikumaryada2022@gmail.com">saikumaryada2022@gmail.com</a></p>
+    💼 **Software Developer** with 3+ years of experience in full-stack web and mobile development
+    🌱 Continuously learning **Cloud Technologies, Machine Learning, and System Design**
+    💬 Ask me about **Java, Python, Spring Boot, Angular, React, Flutter, and Cloud Technologies**
+     📫 How to reach me: <a href="mailto:saikumaryada2022@gmail.com">saikumaryada2022@gmail.com</a>
 
 
 ## 🛠️ Technical Skills
@@ -68,18 +68,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/>
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yadasai007&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yadasai007&theme=radical" alt="GitHub Streak" />
-</p>
-
-## 📈 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadasai007&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 ## 📫 Let's Connect
 
